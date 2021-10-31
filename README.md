@@ -1,2 +1,2 @@
-# jreddit
+# jredd
 Java wrapper around Reddit API
